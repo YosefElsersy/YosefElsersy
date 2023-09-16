@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yosefelsersy-portfolio.web.app/](https://yosefelsersy-portfolio.web.app/)
 
-- 💬 Ask me about **Graphic Design |**
+- 💬 Ask me about **Graphic Design | Front-End**
 
 - 📫 How to reach me **yosefelsersy@gmail.com**
 
