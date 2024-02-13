@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yosef Elsersy</h1>
 <h3 align="center">A passionate MERN STACK Developer from Egypt</h3>
-<img align="right" width="400" src="https://images.app.goo.gl/zuEzrSCgA4WtS1mdA">
-<p align="left"> <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="yosefelsersy" /> </p>
+<img align="right" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<!-- <p align="left"> <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="yosefelsersy" /> </p> -->
 
 - 🌱 I’m currently learning **MERN STACK**
 
