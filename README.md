@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yosef Elsersy</h1>
 <h3 align="center">A passionate MERN STACK Developer from Egypt</h3>
-<img align="right" width="650" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif">
+<img align="right" width="600" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefoo10&label=Profile%20views&color=0e75b6&style=flat" alt="yosefelsersy" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
