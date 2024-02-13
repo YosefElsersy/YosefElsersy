@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-👨‍💻 All of my projects are unavailable for now
+- 👨‍💻 All of my projects are unavailable for now
 
 - 💬 Ask me about **Graphic Design | Front-End**
 
