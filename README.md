@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yosef elsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef elsersy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yosef-elsersy-b237a726b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef elsersy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/yosef elsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Yosef Elsersy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100087441140989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yossef elsersy" height="30" width="40" /></a>
 <a href="https://instagram.com/yosef elsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosef elsersy" height="30" width="40" /></a>
