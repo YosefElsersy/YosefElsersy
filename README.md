@@ -27,7 +27,7 @@
 <a href="https://www.behance.net/yosef elsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yosef elsersy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yosef elsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yosef elsersy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yosefelsersy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosef elsersy" height="30" width="40" /></a>
-<a href="https://discord.gg/yfvSxq2rZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yfvSxq2rZg" height="30" width="40" /></a>
+</a>
 </p>
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <h3 align="left">Languages and Tools:</h3>
