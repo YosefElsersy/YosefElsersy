@@ -64,7 +64,8 @@
   <a href="https://api.jquery.com/jQuery.ajax/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="ajax" width="40" height="40"/></a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="40" height="40"/></a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.packettracer.info" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/135148238-40f4e6f7-3d29-4718-b33d-18d8c61d8e84.png" alt="packet tracer" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://flowbite.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/135149586-dc62c09a-4883-4092-a42e-45171ff0a5d9.png" alt="flowbite" width="40" height="40"/></a>
 </p>
 
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
