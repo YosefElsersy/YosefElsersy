@@ -57,6 +57,7 @@
   <a href="https://reactstrap.github.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactstrap" width="40" height="40"/></a>
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="react router dom" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="40" height="40"/>
 </p>
 
 <!-- Databases -->
@@ -88,11 +89,6 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="adobe xd" width="40" height="40"/></a>
 </p>
 
-<!-- HTTP Clients -->
-<h2>HTTP Clients</h2>
-<p align="left">
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="40" height="40"/></a>
-</p>
 
 
 
