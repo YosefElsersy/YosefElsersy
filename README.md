@@ -55,6 +55,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://reactstrap.github.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactstrap" width="40" height="40"></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"></a>
   
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://nodemon.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="nodemon" width="40" height="40"/></a>
@@ -69,7 +70,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.dbconvert.com%2Fhc%2Fen-us%2Farticles%2F360015797320-MySQL-Workbench-vs-DBConvert-Migrate-from-SQL-Server-to-MySQL&psig=AOvVaw0jkig4VBHmL0wpMGMgtsMd&ust=1715863230030000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiIiObWj4YDFQAAAAAdAAAAABAE" alt="MySqlWorkBench" width="40" height="40"/></a>
 </p>
 
 <!-- Tools and Platforms -->
