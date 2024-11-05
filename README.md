@@ -89,15 +89,11 @@
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn&labelColor=ffffff)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
   
-  🧐 *Knowledge of:*<br>
-
-Responsive web design, DOM, Styled Components, React Router, i18Next, AXIOS, 3rd Party API, Object-Oriented Programming, data structures and algorithms.
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YosefElsersy&show_icons=true&locale=en&layout=compact&theme=dark" alt="YosefElsersy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YosefElsersy&show_icons=true&locale=en&theme=dark" alt="YosefElsersy" /></p>
