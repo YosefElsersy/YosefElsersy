@@ -45,6 +45,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
 ![Nuxt.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=nextdotjs)
@@ -52,6 +53,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+
 
 📚 *UI Frameworks* 
 <br>
