@@ -65,6 +65,12 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
+🗄️ *Databases* <br>
+<br>
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
 🌍 *Deployment platforms:*
 <br>
 <br>
