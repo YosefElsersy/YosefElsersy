@@ -42,7 +42,6 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
 ![Nuxt.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
@@ -53,13 +52,10 @@
 <br>
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 
 🚩 *Module Bundlers* <br>
 <br>
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 🌍 *Deployment platforms:*
@@ -88,11 +84,6 @@
 Responsive web design, DOM, Styled Components, React Router, i18Next, AXIOS, 3rd Party API, Object-Oriented Programming, data structures and algorithms.
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![abdoelazizgamal's github stats](https://github-readme-stats.vercel.app/api?username=abdoelazizgamal&show_icons=true)
-
-
-
 
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YosefElsersy&show_icons=true&locale=en&layout=compact&theme=dark" alt="YosefElsersy" /></p>
