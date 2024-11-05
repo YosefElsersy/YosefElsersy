@@ -49,7 +49,6 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
 ![Nuxt.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=nextdotjs)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
