@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosef Elsersy</h1>
-<h3 align="center">A passionate WEB Developer from Egypt</h3>
+<h3 align="center">A passionate JS Developer from Egypt</h3>
 <p align="center" style="margin-top: -2em;">
   <img width="50%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p>
